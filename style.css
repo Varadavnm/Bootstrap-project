@@ -1,0 +1,40 @@
+/* .border {
+    border: 1px solid #000;
+    background-color: #007bff;
+    
+} */
+
+.span-text {
+    color: #fff;
+    background-color: #000;
+    display: block;
+    font-size: 18px;
+    text-align: center;
+}
+.navbar-brand img {
+    width: 25px;
+}
+.cart-icon {
+    font-size: 240px;
+    color: #333; 
+    position: relative;
+  }
+.no-underline{
+    text-decoration: none;
+}
+
+.d-flex.justify-content-between {
+    justify-content: space-between; 
+    width: 70%; 
+    margin-left   :2rem;
+    margin-right: 2rem;
+
+  }
+  .bg-pista-green {
+    background-color: #a5ce3a;
+  }
+  .bg-img-none {
+    background-image: none !important;
+}
+
+
